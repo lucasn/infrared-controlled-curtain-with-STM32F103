@@ -1,6 +1,6 @@
 # Cortina Automática Utilizando STM32F103 :desktop_computer:
 
-Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Universidade Federal do Ceará. O projeto no desenvolvimento de uma cortina automática utilizando o microcontrolar STM32F103C8T6.
+Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Universidade Federal do Ceará. O projeto consiste no desenvolvimento de uma cortina ativada por controle infra-vermelho utilizando o microcontroladorr STM32F103C8T6.
 
 ### Materiais Utilizados :money_with_wings:
 
