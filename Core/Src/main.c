@@ -219,8 +219,8 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   int buttonCounterClockWise, buttonClockWise;
-  int convertedData = 0;
   uint32_t data;
+  int convertedData = 0;
   int shouldRepeat;
   while (1)
   {
