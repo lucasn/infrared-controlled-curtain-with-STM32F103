@@ -1,4 +1,4 @@
-# Cortina Automática Utilizando STM32F103 :desktop_computer:
+# Cortina Ativada por Infra-vermelho Utilizando STM32F103 :desktop_computer:
 
 Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Universidade Federal do Ceará. O projeto consiste no desenvolvimento de uma cortina ativada por controle infra-vermelho utilizando o microcontroladorr STM32F103C8T6.
 
