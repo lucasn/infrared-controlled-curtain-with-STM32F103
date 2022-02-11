@@ -6,10 +6,12 @@ Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Univ
 
 - Microcontrolador STM32F103C8T6
 - Motor de Passo 28BYJ-48
-- Drive para motor de passo ULN2003A
+- Driver para motor de passo ULN2003A
 - Sensor Infravermelho VS 1838B
 - Controle Infravermelho protocolo NEC
 - ST-Link V2
 - Push-Buttons
 - Jumpers
 
+### Diagrama de Blocos
+![](/Images/BlockDiagram.png)
