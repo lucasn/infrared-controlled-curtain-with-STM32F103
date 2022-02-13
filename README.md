@@ -19,6 +19,10 @@ Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Univ
 ![](/Images/BlockDiagram.png)
 
 
+### Diagrama no Proteus
+![](/Images/ProteusDiagrama.jpg)
+
+
 ### Links relacionados e referências
 [Protocolo NEC](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
 
