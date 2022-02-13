@@ -20,7 +20,7 @@ Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Univ
 
 
 ### Diagrama no Proteus
-![](/Images/ProteusDiagrama.jpg)
+![](/Images/ProteusDiagram.jpg)
 
 
 ### Links relacionados e referências
