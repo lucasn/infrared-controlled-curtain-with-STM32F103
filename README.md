@@ -21,4 +21,5 @@ Esse é o projeto final da disciplina TI0144 - Sistemas Microprocessados da Univ
 
 ### Links relacionados e referências
 [Protocolo NEC](https://techdocs.altium.com/display/FPGA/NEC+Infrared+Transmission+Protocol)
+
 [Motor de Passo](http://www.telecom.uff.br/pet/petws/downloads/tutoriais/stepmotor/stepmotor2k81119.pdf)
